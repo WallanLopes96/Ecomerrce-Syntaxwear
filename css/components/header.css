@@ -14,8 +14,9 @@
   padding: 20px 28px;
 }
 
-.logo img a:hover {
+.logo a:hover {
   height: 40px;
+  color: red;
 }
 
 .nav-center ul {
@@ -27,6 +28,7 @@
 .nav-right a{
     font-size: 1.25rem;
 }
+
 .nav-center a:hover,
 .nav-right a:hover{
     font-size: 1.25rem;
