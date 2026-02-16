@@ -11,7 +11,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 28px;
+  padding: 12px 20px;
 }
 
 .logo a:hover {
@@ -49,4 +49,9 @@
 
 .nav-right a:hover img{
     opacity: 0.7;
+}
+
+.logo img {
+  width: 180px;
+  height: 50px;
 }
